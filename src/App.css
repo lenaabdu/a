@@ -1,0 +1,36 @@
+.color {
+    color: white;
+}
+
+.Container {
+    padding: 10px;
+    margin-top: 30px;
+    width: 80%;
+}
+
+.header {
+    margin-top: 80px;
+}
+
+.header3 {
+    margin-top: 100px;
+    color: blue;
+}
+
+.subheader {
+    font-size: 25px;
+}
+
+.footer {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.footer2 {
+    margin-top: 60px;
+}
+
+.root {
+    margin-Top: 70px;
+    margin-bottom: 100px;
+}
